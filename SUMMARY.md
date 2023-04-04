@@ -5,5 +5,6 @@
 * [Java](java/README.md)
   * [SE](java/se/README.md)
     * [install](java/se/install.md)
-    * [2环境](java/se/2-huan-jing.md)
+    * [IDEA](java/se/idea.md)
+    * [HelloWorld](java/se/helloworld.md)
 * [复习Java](fu-xi-java.md)
