@@ -9,5 +9,6 @@
     * [DataType](java/se/datatype.md)
     * [Variable](java/se/variable.md)
     * [Operators](java/se/operators.md)
+    * [Flow](java/se/flow.md)
 * [复习Java](fu-xi-java.md)
 * [Test Pages](test-pages.md)
