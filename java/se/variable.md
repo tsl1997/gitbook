@@ -2,7 +2,7 @@
 description: variable变量是一个重要的概念
 ---
 
-# variable
+# Variable
 
 本文档引用部分是ChatGPT的回答。
 
@@ -29,7 +29,7 @@ description: variable变量是一个重要的概念
 > public class VariableExample {
 >     public static void main(String[] args) {
 >         // 声明一个整型变量 age，但是不初始化，此时 age 的值为默认值 0
->         int age;
+>         int age = 0;
 >
 >         // 声明一个字符串类型的变量 name，并初始化为字符串 "张三"
 >         String name = "张三";
